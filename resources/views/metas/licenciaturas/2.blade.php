@@ -69,7 +69,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 @section('titulo')
-    Licenciatura en Administración de Empresas Turísticas | UNIMEX
+    Licenciatura en Administración de Empresas Turísticas | UNIMEX Veracruz
 @endsection
 <meta name="description"
     content="Estudia la Licenciatura en Administración de Empresas Turísticas en 3 años 4 meses, beca hasta del 60%, horarios que te permiten estudiar y trabajar">

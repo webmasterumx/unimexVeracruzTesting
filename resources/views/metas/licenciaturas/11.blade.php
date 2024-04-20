@@ -71,7 +71,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="manifest" href="manifest.json">
 @section('titulo')
-    Licenciatura en Relaciones Internacionales y Comercio Exterior | UNIMEX
+    Licenciatura en Relaciones Internacionales y Comercio Exterior | UNIMEX Veracruz
 @endsection
 <meta name="description"
     content="Estudia la Licenciatura en Relaciones Internacionales y Comercio Exterior 3 años 4 meses, beca hasta del 60%, horarios que te permiten estudiar y trabajar">

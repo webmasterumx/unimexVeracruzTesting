@@ -68,7 +68,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="manifest" href="manifest.json">
 @section('titulo')
-    SUA Licenciatura en Contaduría Pública | UNIMEX
+    SUA Licenciatura en Contaduría Pública | UNIMEX Veracruz
 @endsection
 <meta name="description"
     content="Estudia la Licenciatura en Contaduría Publica Sistema Abierto en 2 años 4 meses con horarios que te permiten estudiar y trabajar, inscribete ya">

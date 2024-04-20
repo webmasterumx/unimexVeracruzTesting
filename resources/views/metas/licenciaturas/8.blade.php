@@ -69,7 +69,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 @section('titulo')
-    Licenciatura en Idiomas | UNIMEX
+    Licenciatura en Idiomas | UNIMEX Veracruz
 @endsection
 <meta name="description"
     content="Estudia la Licenciatura en Idiomas en 3 años 4 meses y obtén beca hasta del 60%, con horarios que te permiten estudiar y trabajar, inscribete ya">

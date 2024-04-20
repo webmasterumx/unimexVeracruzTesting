@@ -69,7 +69,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 @section('titulo')
-    Licenciatura en Comercio Internacional y Aduanas | UNIMEX
+    Licenciatura en Comercio Internacional y Aduanas | UNIMEX Veracruz
 @endsection
 <meta name="description"
     content="Estudia la Licenciatura en Comercio Internacional y Aduanas 3 años 4 meses, beca hasta del 60%, horarios que te permiten estudiar y trabajar">

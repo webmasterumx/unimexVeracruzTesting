@@ -69,7 +69,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="manifest" href="manifest.json">
 @section('titulo')
-    Posgrado en Docencia | UNIMEX
+    Posgrado en Docencia | UNIMEX Veracruz
 @endsection
 <meta name="description"
     content="Estudia el Posgrado en Docencia en 1 año 8 meses con beca hasta del 35%, horarios que te permiten estudiar y trabajar, inscribete ya">

@@ -68,7 +68,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="manifest" href="manifest.json">
 @section('titulo')
-    SUA Licenciatura en Derecho | UNIMEX
+    SUA Licenciatura en Derecho | UNIMEX Veracruz
 @endsection
 <meta name="description"
     content="Estudia la Licenciatura en Derecho Sistema Abierto en 2 años 4 meses con horarios que te permiten estudiar y trabajar, inscribete ya">

@@ -1,7 +1,7 @@
 @extends('layouts.layout')
 
 @section('titulo')
-    Universidad Mexicana | Educación que se adapta a ti
+    UNIMEX Veracruz | Universidad sin Fronteras
 @endsection
 
 @section('metas')
@@ -25,7 +25,8 @@
             <div id="bannerInicial">
                 @foreach ($banners as $banner)
                     <a href="{{ route($banner->link) }}" target="_blank" class="itemBannerInit">
-                        <img style="height: auto;" src="{{ asset($banner->url) }}" class="d-block w-100" alt="{{ $banner->alt }}">
+                        <img style="height: auto;" src="{{ asset($banner->url) }}" class="d-block w-100"
+                            alt="{{ $banner->alt }}">
                     </a>
                 @endforeach
             </div>

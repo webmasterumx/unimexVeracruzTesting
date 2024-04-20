@@ -71,14 +71,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="manifest" href="manifest.json">
 @section('titulo')
-    Licenciatura en Gastronomía Internacional | UNIMEX
+    Licenciatura en Gastronomía Internacional | UNIMEX Veracruz
 @endsection
 <meta name="description"
     content="Estudia la Licenciatura en Gastronomía Internacional 3 años 4 meses, beca hasta del 60%, horarios que te permiten estudiar y trabajar">
 <meta property="og:site_name" content="Universidad Mexicana">
 <meta property="og:locale" content="es_MX">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Licenciatura en Gastronomía Internacional | UNIMEX">
+<meta property="og:title" content="Licenciatura en Gastronomía Internacional | UNIMEX Veracruz">
 <meta property="og:description"
     content="Estudia la Licenciatura en Gastronomía Internacional 3 años 4 meses con beca hasta del 60%, horarios que te permiten estudiar y trabajar, inscribete ya">
 <meta property="og:url" content="https://unimex.edu.mx/licencitura-en-gastronomia-internacional">

@@ -70,7 +70,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="manifest" href="manifest.json">
 @section('titulo')
-    Licenciatura en Informática Administrativa | UNIMEX
+    Licenciatura en Informática Administrativa | UNIMEX Veracruz
 @endsection
 <meta name="description"
     content="Estudia la Licenciatura en Informática Administrativa 3 años 4 meses, beca hasta del 60%, horarios que te permiten estudiar y trabajar">
